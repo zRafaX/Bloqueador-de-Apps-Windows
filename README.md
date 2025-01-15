@@ -7,6 +7,8 @@ Este script .bat foi projetado para melhorar a segurança dos seus Apps (Program
 - Exemplos pré-configurados para bloquear aplicativos como Discord, Microsoft Edge, Steam e Epic Games Launcher.
 - Permite personalizações para adicionar ou remover aplicativos bloqueados conforme necessário.
 
+![Texto Alternativo](Exemplo.png)
+
 ## Requisitos
 - Sistema operacional Windows.
 - Privilégios de administrador para executar o script.
