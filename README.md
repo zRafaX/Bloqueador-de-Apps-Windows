@@ -17,7 +17,7 @@ Este script .bat foi projetado para melhorar a segurança dos seus Apps (Program
 1. **Baixe o script**
    - Baixe os dois arquivos deste repositório.
 
-2. **Edite o script (opcional)**
+2. **Edite o script**
    - Abra o arquivo em um editor de texto.
    - Adicione ou remova aplicativos bloqueados modificando as linhas que iniciam com `set "file="`. Substitua o caminho do executável pelo caminho do aplicativo que deseja bloquear.
 
@@ -26,7 +26,7 @@ Este script .bat foi projetado para melhorar a segurança dos seus Apps (Program
    - O script solicitará permissões para modificar o registro.
 
 4. **Verifique os aplicativos bloqueados**
-   - Tente abrir os aplicativos especificados. O sistema solicitará credenciais de administrador para executar esses aplicativos.
+   - Tente abrir os aplicativos especificados. O sistema solicitará senha de administrador para executar esses aplicativos.
 
 ## Personalizações
 ### Adicionar um novo aplicativo:
