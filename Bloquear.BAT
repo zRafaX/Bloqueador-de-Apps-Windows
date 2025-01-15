@@ -1,4 +1,5 @@
 @echo off
+color 05
 
 :: By: zRafaX
 
