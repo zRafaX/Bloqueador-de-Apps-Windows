@@ -1,6 +1,6 @@
 # Bloqueador de Aplicativos no Windows
 
-Este script .bat foi projetado para melhorar a segurança do sistema operacional Windows, impedindo o uso não autorizado de aplicativos específicos ao forçar a solicitação de credenciais de administrador para executá-los.
+Este script .bat foi projetado para melhorar a segurança dos seus Apps (Programas) no Windows, impedindo o uso não autorizado, forçando a solicitação de senha de administrador para executá-los.
 
 ## Funcionalidades
 - Configurações no registro para exigir permissão de administrador antes de executar aplicativos bloqueados.
